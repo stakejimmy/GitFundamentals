@@ -1,4 +1,7 @@
 Hello, Git
 Hello again
 Updating it
-modifying thisFeature1
+modifying this
+Feature1
+Feature2
+Feature2 changes
